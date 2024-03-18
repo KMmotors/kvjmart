@@ -1,0 +1,112 @@
+.image{
+    height:500;
+    width:500px;
+    margin:0 auto;
+    float:left;
+    margin-top:50px;
+    }
+    .search-bar{
+    font-size:25px;
+    font-family:monospace;
+    margin:0 auto;
+    display:block;
+    border:solid 4px;
+    border-color:grey;
+    border-radius:20px; 	
+    align-items:center;
+    text-align:center;
+    height:50px;
+    width:450px;}
+    .iphonex{
+    float:right;
+    font-size:75px;
+    font-family:american typewriter;
+    margin-right:200px;
+    background: linear-gradient(red,orange,darkviolet,darkblue,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent
+    }
+    .market{
+    align-items:center;
+    margin-bottom:50%;
+        
+    }
+    .comment-box{
+    font-size:20px;
+    text-align:center;
+    height:60px;
+    width:400px;
+    margin-top:20px;
+    font-family:american typewritter;
+    }
+    .bucket{
+    font-family:american typewritter;
+    font-size:25px;
+    background:none	;
+    color:#000;
+    }
+    .iphonex-video{
+        height:400px;
+        width:300px;
+        align-items:center;
+
+    }
+     .pid-1{
+        color:rgb(135, 130, 130);
+        font-size:15px;
+        font-family:american typewritter;
+        font-style:bold;
+        align-items: center;
+        letter-spacing: 3px;
+
+    }
+    .iphonex-details{
+        font-size:15px;
+        font-family:monospace;
+        color:#000;
+        background-color: #fff;
+        border-radius:3px;
+        margin-top:1%;
+        margin-bottom: 1%;
+}
+.price-tag{
+    font-size:25px;
+    font-family:american typewriter;
+    color:#808080;
+    margin:0 auto;
+    display:block;
+    float:top;
+    margin-left:180px;
+}
+.line-break{
+    color:#808080;
+    border:solid 6px;
+}
+.product1{
+    height:270px;
+    width:300px;
+    margin-top:20px;
+    float:left;
+}
+.product2{
+    height:270px;
+    width:300px;
+    margin-left:350px;
+    float:left;
+    margin-top:20px;
+
+}
+.ipad1{
+    height:350px;
+    width:300px;
+}
+.footer,.footer2,a{
+    word-spacing:350px;
+    letter-spacing:2px;
+    text-decoration: none;
+    color:#fff;
+    background: #808080;
+    font-family:Franklin Gothic;
+    padding:6px;
+    align-items: center;
+}
