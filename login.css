@@ -1,0 +1,46 @@
+.login-box{
+align-items:center;
+text-align:center;
+justify-content:center;s
+height:200px;
+width:950px;
+margin:0 auto;
+display:block;
+margin-top:90px;
+}
+.username,.password,.submit{
+margin-top:30px;}
+h1{
+text-align:center;
+font-family:Franklin Gothic;
+font-size:55px;
+background:linear-gradient(red,maroon);
+-webkit-background-clip:text;
+-webkit-text-fill-color:transparent;
+}
+.username{
+font-family:american typewritter;
+font-size:25px;
+color:#000;
+letter-spacing:2px;
+}
+.password{
+font-family:american typewritter;
+font-size:25px;
+color:#000;
+letter-spacing:2px;
+}
+.login-box{
+border: solid transparent 3px;
+padding:4px;
+width:40%;
+height:400px;
+border-radius:25px;
+box-shadow:10px 10px 10px grey;
+}
+.submit{
+font-family:franklin Gothic;
+font-size:25px;
+background:transparent;
+color:#000;
+}
