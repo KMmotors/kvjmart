@@ -1,0 +1,102 @@
+.video{
+    height:500px;
+    width:100%;
+    align-items:center;
+    justify-content:center ;
+    vertical-align: top;
+    border:solid  4px;
+    background-color: #d0cdcd;
+    border-radius: 8px;
+}
+.image1{
+    height:150px;
+    width:150px;
+    margin-top:20px;
+    float:left;
+}
+.iphone{
+    float:left;
+    display:flex;
+    flex-direction: row;
+    padding:5px;
+}
+.iphone1,.iphone2,.iphone3{
+    font-size:15px;
+    font-style:bold;
+    font-family:Franklin Gothic;
+    letter-spacing: 1px;
+}
+
+.image2{
+    height:150px;
+    width:150px;
+    margin-top:20px;
+    float:left;
+    margin-left:40px;
+}
+.image3{
+    margin-left:90px;
+    display:flex;
+    height:150px;
+    width:150px;
+    margin-top:19px;
+}
+.padimage1,.ipad1,.padimage2{
+    height:150px;
+    width:150px;
+    font-family:franklin gothic;
+    font-size:15px;
+    font-style:bold;}
+.padimage1{
+        margin-top:20px;
+}
+.ipad1{
+    margin-right:30px;
+    letter-spacing:1px;
+}
+.ipad2{
+    flex-direction: row;
+    font-size:15px;
+    margin-top:20px;
+    font-family:franklin gothic;
+    letter-spacing: 1px;
+}
+
+.padimage2{
+    margin-right:40px;
+    margin-top:20px;
+}
+.tablets{
+    float:left;
+    display:flex;
+    flex-direction: row;
+    padding:5px;
+}
+.phone1{
+    font-size:15px;
+    border:transparent;
+    border-radius:3px;
+    background: linear-gradient(#ff2727,#620505);
+    margin-top:10px;
+    box-shadow:5px 5px 5px #808080;
+    color:#fff;
+    font-weight:700;
+    font-family:franklin Gothic;
+} 
+.phone1:hover{
+    transform:translateY(-30%);
+    cursor:pointer;
+}
+.apple{
+    height:30px;
+    width:30px;
+}
+.header{
+    font-family:Franklin Gothic;
+    font-size:40px;
+    text-align:center;
+    background: linear-gradient(#a61ee0,#ba0d0d,#e9a220,#ffff24);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+
+}
