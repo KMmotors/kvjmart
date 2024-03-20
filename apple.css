@@ -4,7 +4,7 @@
     align-items:center;
     justify-content:center ;
     vertical-align: top;
-    border:solid  4px;
+    border:solid #000 4px;
     background-color: #000;
     border-radius: 20px;
 }
